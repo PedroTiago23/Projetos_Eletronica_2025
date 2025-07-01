@@ -79,8 +79,8 @@ void loop() {
   int currentTime;
   while (digitalRead(A5) == LOW) continue;
   resetDisplays();
-  int delayTime = 4000;
-  delay(500);
+  int delayTime = random(4000, 6000);
+  delay(delayTime);
   unsigned long startTime = millis();
   digitalWrite(A3, HIGH);
   while (digitalRead(A5) == LOW){
