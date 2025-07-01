@@ -48,22 +48,17 @@ Este projeto implementa um testador básico de tempo de reação em uma placa Ar
 ## Requisitos de Hardware
 
 Para construir este projeto, você precisará dos seguintes componentes:
-
--   **Placa Arduino:** Qualquer placa Arduino (por exemplo, Uno, Nano, Mega).
-    
--   **Três Displays de Sete Segmentos de Catódo Comum:** Para exibir o tempo.
-    
--   **Botão de Pressão:** Para entrada do usuário.
-    
--   **Resistores:**
-    
-    -   Sete resistores de 220 ohms para cada display de sete segmentos (14 no total).
-        
-    -   Um resistor pull-down de 10k ohms para o botão.
-        
--   **Protoboard:** Para prototipagem.
-    
--   **Fios Jumper:** Para as conexões.
+| Item                                | Quantidade | Preço Unitário | Preço Total | Observações                 |
+| :---------------------------------- | :--------: | :------------- | :---------- | :-------------------------- |
+| Arduino Uno R3                      | 1          | R$ 66,30       | R$ 66,30    | Inclui cabo USB             |
+| Visor catódico de sete segmentos    | 3          | R$ 6,80        | R$ 20,40    |                             |
+| Protoboard BB-01 840                | 1          | R$ 39,10       | R$ 39,10    |                             |
+| Jumpers macho x macho               | 2          | R$ 7,00        | R$ 14,00    | 10 Jumpers por unidade      |
+| Resistor 1.2k Ω 1W                  | 3          | R$ 0,40        | R$ 1,20     |                             |
+| Botão 3MM 180GR Tower               | 1          | R$ 1,50        | R$ 1,50     |                             |
+| Resistor 4.7k Ω 1W                  | 3          | R$ 0,40        | R$ 1,20     |                             |
+| LED vermelho                        | 1          | R$ 0,50        | R$ 0,50     |                             |
+| **Custo Total Estimado**            |            |                |**R$ 144,2** | (Excluindo o frete)         |
     
 
 ----------
