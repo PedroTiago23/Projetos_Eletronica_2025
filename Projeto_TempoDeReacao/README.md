@@ -79,7 +79,10 @@ Para construir este projeto, você precisará dos seguintes componentes:
 3.  **Conecte o Hardware:** Monte seus componentes de acordo com o esquemático (consulte a seção "Diagrama de Circuito" abaixo para uma visão conceitual).
     
 4.  **Carregue o Código:** Selecione sua placa Arduino e porta na IDE do Arduino e carregue o código.
+
+   
     
+![Imagem do circuito](ImagensReacao/CircuitoReacao.png)
 
 ----------
 
