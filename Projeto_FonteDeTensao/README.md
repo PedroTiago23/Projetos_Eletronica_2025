@@ -18,7 +18,7 @@ Este diagrama mostra o comportamento funcional do circuito em um simulador onlin
 
 O esquemático no Eagle fornece uma representação detalhada das conexões elétricas e dos componentes utilizados, sendo a base para o layout da PCB.
 
-![Esquemático da Fonte de Tensão no Eagle](Eagle.jpeg)
+![Esquemático da Fonte de Tensão no Eagle](ImagensFonte/Eagle.jpeg)
 
 ### Layout da Placa de Circuito Impresso (PCB)
 
