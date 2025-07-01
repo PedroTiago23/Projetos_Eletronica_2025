@@ -12,7 +12,7 @@ Aqui você encontrará os diagramas do circuito em diferentes etapas de design, 
 
 Este diagrama mostra o comportamento funcional do circuito em um simulador online (Fallstad). Ele é útil para entender o fluxo de corrente e as interações entre os componentes.
 
-![Circuito da Fonte de Tensão no Fallstad](Fallstad.jpeg)
+![Circuito da Fonte de Tensão no Fallstad](ImagensFonte/Fallstad.jpeg)
 
 ### Esquema Elétrico no Eagle
 
@@ -24,7 +24,7 @@ O esquemático no Eagle fornece uma representação detalhada das conexões elé
 
 Este é o layout da PCB, mostrando o posicionamento dos componentes e as trilhas para fabricação da placa.
 
-![Layout da PCB da Fonte de Tensão](PCB.jpeg)
+![Layout da PCB da Fonte de Tensão](ImagensFonte/PCB.jpeg)
 
 ## 📦 Lista de Componentes e Orçamento
 
