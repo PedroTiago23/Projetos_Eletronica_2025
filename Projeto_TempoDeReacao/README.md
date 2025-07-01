@@ -70,11 +70,11 @@ Para construir este projeto, você precisará dos seguintes componentes:
     Bash
     
     ```
-    git clone https://github.com/your-username/arduino-reaction-tester.git
+    git clone https://github.com/PedroTiago23/Projeto_Eletronica_2025/Projeto_TempoDeReacao
     
     ```
     
-2.  **Abra na IDE do Arduino:** Abra o arquivo `arduino-reaction-tester.ino` (ou o nome que você der ao seu arquivo de sketch principal) na IDE do Arduino.
+2.  **Abra na IDE do Arduino:** Abra o arquivo `TempoReacaoArduino.ino` (ou o nome que você der ao seu arquivo de sketch principal) na IDE do Arduino.
     
 3.  **Conecte o Hardware:** Monte seus componentes de acordo com o esquemático (consulte a seção "Diagrama de Circuito" abaixo para uma visão conceitual).
     
