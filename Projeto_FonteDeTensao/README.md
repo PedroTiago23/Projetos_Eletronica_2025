@@ -2,7 +2,7 @@
 
 ## ⚡ Visão Geral do Projeto
 
-Este repositório contém os arquivos e documentação para o projeto de uma fonte de tensão regulada simples. O objetivo é converter uma tensão alternada de entrada em uma tensão contínua estável e regulada, ideal para alimentar diversos circuitos eletrônicos.
+Este repositório contém os arquivos e documentação para o projeto de uma fonte de tensão de 12-3V regulada simples. O objetivo é converter uma tensão alternada de entrada em uma tensão contínua estável e regulada, ideal para alimentar diversos circuitos eletrônicos.
 
 ## ⚙️ Diagramas do Circuito
 
@@ -46,20 +46,8 @@ Abaixo está a lista completa dos componentes necessários para montar esta font
 | Transistor NPN 2N3904 | 1 | R$ 1,60 | R$ 1,60 | |
 | **Custo Total Estimado** | | | **R$ 44,29** | (Excluindo o frete) |
 
-## 🚀 Como Usar / Montar
+## Cálculo do Ripple
 
-*(Esta seção é um placeholder. Você pode adicionar instruções detalhadas aqui sobre como montar o circuito na protoboard, na PCB, ou como testá-lo. Por exemplo:)*
 
-1.  **Montagem na Protoboard:** Utilize a Mini Protoboard e os jumpers para interligar os componentes conforme o diagrama do Fallstad ou Eagle.
-2.  **Soldagem na PCB:** Para a versão final, siga o layout da PCB para soldar os componentes na placa. Preste atenção à polaridade de diodos, capacitores e o transistor.
-3.  **Testes Iniciais:** Antes de conectar à carga, verifique as tensões de saída com um multímetro para garantir que a fonte está operando corretamente.
-
-## 🤝 Contribuições
-
-Sinta-se à vontade para abrir issues, sugerir melhorias ou fazer pull requests. Toda contribuição é bem-vinda!
-
-## 📄 Licença
-
-Este projeto é distribuído sob a licença [Nome da Licença, ex: MIT License]. Veja o arquivo `LICENSE` para mais detalhes. *(Se você não tiver uma licença, pode remover esta seção ou adicionar uma.)*
 
 
