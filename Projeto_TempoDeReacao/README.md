@@ -28,6 +28,8 @@ Este projeto Arduino permite testar e melhorar seu tempo de reação usando um c
 
 Este projeto implementa um testador básico de tempo de reação em uma placa Arduino. Ele mede o tempo que um usuário leva para pressionar um botão após uma pista visual. O tempo é então exibido em três displays de sete segmentos. O projeto também mantém o registro do seu melhor tempo.
 
+![Imagem do projeto](ImagensReacao/FotoProjeto.jpg)
+
 ----------
 
 ## Funcionalidades
