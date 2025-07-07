@@ -1,3 +1,4 @@
+
 # Projeto: Fonte de Tensão Regulada
 
 ## ⚡ Visão Geral do Projeto
@@ -56,24 +57,22 @@ Abaixo está a lista completa dos componentes necessários para montar esta font
 
 O ripple é a oscilação residual de tensão na saída de uma fonte retificada e filtrada, causada pela descarga do capacitor entre os ciclos da rede. Para estimá-lo, usamos a fórmula:
 
-\[
-V_{\text{ripple}} = \frac{I}{f \cdot C}
-\]
+```
+Vripple = I / (f * C)
+```
 
 ### Onde:
-- \( I = 0{,}05\,\text{A} \) (corrente de carga estimada: 50 mA)
-- \( f = 60\,\text{Hz} \) (frequência da rede elétrica)
-- \( C = 840\,\mu\text{F} = 840 \times 10^{-6}\,\text{F} \) (capacitância do capacitor de filtro)
+- `I = 0,05 A` (corrente de carga estimada: 50 mA)
+- `f = 60 Hz` (frequência da rede elétrica)
+- `C = 840 μF = 840 x 10⁻⁶ F` (capacitância do capacitor de filtro)
 
 ### Substituindo:
-
-\[
-V_{\text{ripple}} = \frac{0{,}05}{60 \cdot 840 \times 10^{-6}} \approx \boxed{0{,}99\,\text{V}}
-\]
+```
+Vripple = 0,05 / (60 * 840e-6)
+Vripple ≈ 0,99 V
+```
 
 Esse valor representa a variação máxima da tensão de saída entre dois ciclos da rede. Para diminuir o ripple, poderíamos:
 - Aumentar a capacitância
 - Reduzir a corrente de carga
 - Usar reguladores adicionais após a filtragem
-
----
