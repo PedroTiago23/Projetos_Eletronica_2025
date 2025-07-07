@@ -99,7 +99,11 @@ Para construir este projeto, você precisará dos seguintes componentes:
 5.  **Indicação do Melhor Tempo:** Se o seu tempo de reação atual for melhor que o tempo anterior, o novo melhor tempo piscará algumas vezes.
     
 6.  **Repita:** O sistema então será reiniciado e você poderá testar seu tempo de reação novamente.
-    
+
+
+## Vídeo do Projeto Funcionando
+
+https://github.com/user-attachments/assets/f468633b-e3aa-4013-9054-d50f35c0126b
 
 ----------
 
