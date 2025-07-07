@@ -26,6 +26,10 @@ Este é o layout da PCB, mostrando o posicionamento dos componentes e as trilhas
 
 ![Layout da PCB da Fonte de Tensão](ImagensFonte/PCB.jpeg)
 
+### Vídeo da Fonte de Tensão
+
+![Video da Fonte de Tensão funcionando](VideoFonte/FontedeTensao.mp4)
+
 ## 📦 Lista de Componentes e Orçamento
 
 Abaixo está a lista completa dos componentes necessários para montar esta fonte de tensão, juntamente com uma estimativa de custo.
