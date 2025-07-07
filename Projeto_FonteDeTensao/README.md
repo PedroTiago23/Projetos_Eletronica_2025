@@ -28,7 +28,7 @@ Este é o layout da PCB, mostrando o posicionamento dos componentes e as trilhas
 
 ### Vídeo da Fonte de Tensão
 
-![Video da Fonte de Tensão funcionando](VideoFonte/FontedeTensao.mp4)
+![Video da Fonte de Tensão funcionando](https://youtu.be/LDXVzCEuelQ)
 
 ## 📦 Lista de Componentes e Orçamento
 
